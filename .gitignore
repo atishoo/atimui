@@ -1,0 +1,12 @@
+.DS_Store
+**/node_modules
+.git
+npm-debug.log*
+yarn-error.log
+.idea
+yarn.lock
+package-lock.json
+*bak
+.vscode
+.history
+*.log
